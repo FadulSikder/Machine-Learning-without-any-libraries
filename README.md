@@ -9,3 +9,7 @@
     
 ● Keep the data in the same directory
 
+**Description**
+
+Machine Learning algorithms from-scratch implementation.No liberies has been used. It covers most Supervised and Unsupervised algorithms.
+
